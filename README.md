@@ -11,3 +11,12 @@ This repo focuses on data visualization for SAT scores of accredited high school
 
 ## Visualizations
 
+![alt-title](Images/NYCmap.png)
+
+![alt-title](Images/SchoolLocationPlot.png)
+
+![alt-title](Images/SchoolPlot_SATscores.png)
+
+![alt-title](Images/BoroughsVSAvgSAT.png)
+
+![alt-title](Images/SchoolLocation_Boroughs.png)
